@@ -16,7 +16,7 @@ The NodeJs, ExpressJS backend for this project is located here: https://github.c
 `git clone https://github.com/TheWillG/CodeRally.git`
 
 `cd CodeRally`
-
+//read
 `npm install`
 
 ## Run
